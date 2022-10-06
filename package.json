@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "cypress:test": "yarn config:reports; $(npm bin)/cypress open"
+    "cypress:test": "$(npm bin)/cypress open"
   },
   "dependencies": {
     "@babel/core": "^7.16.0",
