@@ -40,7 +40,7 @@
     "editor.guides.indentation": false,
     "cucumberautocomplete.smartSnippets": true,
     "cucumberautocomplete.steps": "cypress/integration/steps/*.js",
-    "cucumberautocomplete.syncfeatures": "cypress/integration/features/*.feature",
+    "cucumberautocomplete.syncfeatures": "cypress/integration/features/**/*.feature",
     "cucumberautocomplete.strictGherkinCompletion": false,
     "cucumberautocomplete.strictGherkinValidation": false,
     "cucumberautocomplete.skipDocStringsFormat": false,
